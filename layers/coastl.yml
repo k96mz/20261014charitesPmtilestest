@@ -1,0 +1,5 @@
+id: coastl
+type: line
+source: v
+source-layer: coastl
+maxzoom: 5

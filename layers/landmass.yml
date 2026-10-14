@@ -1,0 +1,8 @@
+id: landmass
+type: fill
+source: v
+source-layer: landmass
+maxzoom: 5
+paint:
+  # fill-color: rgba(195, 176, 176, 1)
+  fill-color: rgba(50, 50, 50, 1)
